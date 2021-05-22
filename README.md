@@ -5,7 +5,7 @@
 
 
 - 💡 &nbsp;I’m a Computer Science Engineer who turned into a Data Analyst.
-- 🌱 &nbsp;I like creating simplified solutions using Artificial Intelligence technologies and love to explore new technologies.
+- 🌱 &nbsp;I like creating simplified solutions and love to explore new technologies.
 - ✍️ &nbsp;In my free time, I listen to music, read books, and go for long walks. 
 - 💬&nbsp;I am currently looking for a job opportunity in the field of data. Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
 <!--I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\-->
