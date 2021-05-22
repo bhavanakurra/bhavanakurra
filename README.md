@@ -6,7 +6,7 @@
 
 💡&nbsp;I’m a Computer Science Engineer who has turned into a Data Analyst.\
 🌱&nbsp;I like creating simplified solutions and love to explore new technologies.\
-✍️&nbsp;In my free time, I read books,  and go for long walks.\ 
+✍️&nbsp;In my free time, I read books,  and go for long walks. \ 
 💬&nbsp;I am currently looking for a job opportunity in the field of data. Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.\
 <!--I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\-->
 <!-- 🎓 &nbsp;I recently graduated with Masters in Computer Science from University of Colorado, Denver in May 2020.\ -->
