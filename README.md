@@ -3,13 +3,17 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I’m a Computer Science Engineer who has turned into a Data Analyst. I am passionate in creating simplified solutions.
+. I am passionate in creating simplified solutions.
 
-💡 &nbsp;I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\
-🎓 &nbsp;I recently graduated with Masters in Computer Science from University of Colorado, Denver in May 2020.\
-🌱 &nbsp;I am currently learning more about System Design for Big Data, Cloud Architecture and Web Scraping.\
-✍️ &nbsp;In my free time, I read books, write, do yoga and go for long walks. \
+💡 &nbsp; I’m a Computer Science Engineer who has turned into a Data Analyst.\
+<!--I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\-->
+<!-- 🎓 &nbsp;I recently graduated with Masters in Computer Science from University of Colorado, Denver in May 2020.\ -->
+<!--🌱 &nbsp;I am currently learning more about System Design for Big Data, Cloud Architecture and Web Scraping.\ -->
+🌱 &nbsp;I like creating simplified solutions and love to explore new technologies\ 
+✍️ &nbsp;In my free time, I read books,  and go for long walks. \
 💬 &nbsp;I am currently looking for a job opportunity in the field of data. Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.\
+<!--✉️ &nbsp;You can shoot me an email at datascientist.shweta@gmail.com! I'll try to respond as soon as I can.\ -->
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://shweta-yadav15.github.io/Shweta_Resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -22,7 +26,7 @@ I’m a Computer Science Engineer who has turned into a Data Analyst. I am passi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
