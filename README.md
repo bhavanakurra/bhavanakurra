@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=HTML5)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
