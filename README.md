@@ -19,13 +19,13 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;\
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
