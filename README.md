@@ -3,7 +3,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-. I am passionate in creating simplified solutions.
 
 💡 &nbsp; I’m a Computer Science Engineer who has turned into a Data Analyst.\
 <!--I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\-->
