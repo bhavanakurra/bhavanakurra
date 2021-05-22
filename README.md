@@ -4,13 +4,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- 💡 &nbsp;I’m a Computer Science Engineer who has turned into a Data Analyst.
-- 🌱 &nbsp;I like creating simplified solutions and love to explore new technologies.
+- 💡 &nbsp;I’m a Computer Science Engineer who turned into a Data Analyst.
+- 🌱 &nbsp;I like creating simplified solutions using Artificial Intelligence technologies and love to explore new technologies.
 - ✍️ &nbsp;In my free time, I listen to music, read books, and go for long walks. 
 - 💬&nbsp;I am currently looking for a job opportunity in the field of data. Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
 <!--I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\-->
 <!-- 🎓 &nbsp;I recently graduated with Masters in Computer Science from University of Colorado, Denver in May 2020.\ -->
-<!--🌱 &nbsp;I am currently learning more about System Design for Big Data, Cloud Architecture and Web Scraping.\ -->
+<!--🌱 &nbsp;I am currently learning more about System Design for Big Data, Cloud Architecture and Web Scraping or I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture..\ -->
 <!--✉️ &nbsp;You can shoot me an email at datascientist.shweta@gmail.com! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://shweta-yadav15.github.io/Shweta_Resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
